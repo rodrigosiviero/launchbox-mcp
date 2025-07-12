@@ -99,7 +99,6 @@ dotenv
 
 # LaunchBox/MCP specific
 launchbox_cache.db
-launchbox_config.json
 mcp_debug.log
 .chroma_data/
 
