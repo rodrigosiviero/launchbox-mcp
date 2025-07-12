@@ -97,6 +97,10 @@ Suggests unplayed games based on your favorite genres and recent play history, w
 - `launchbox.py` — Main script for playlist generation and LaunchBox utilities
 - `launchbox_config.json` — Configuration file
 
+## Video of mcp server in action
+
+https://www.youtube.com/watch?v=QIqef_1Wpk0
+
 ## Notes
 - Playlists are formatted to match LaunchBox's requirements (field order, indentation, self-closing tags for empty fields).
 - If you encounter issues with LaunchBox deleting playlists, ensure the XML formatting matches that of manually created playlists.
