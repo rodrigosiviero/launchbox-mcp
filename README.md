@@ -103,4 +103,4 @@ Suggests unplayed games based on your favorite genres and recent play history, w
 - For best results, use clear and specific queries when generating playlists.
 
 ## License
-MIT License (or specify your license here)
+MIT License
